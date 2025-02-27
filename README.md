@@ -4,7 +4,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/biotech-project.git
+git clone https://github.com/yashpotdar-py/biotech-project.git
 cd biotech-project
 
 # Create and activate a virtual environment (recommended)
