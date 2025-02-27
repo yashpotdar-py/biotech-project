@@ -53,9 +53,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-Your Name - yashyogeshpotdar7@gmail.com
-
-Project Link: [https://github.com/yashpotdar-py/biotech-project](https://github.com/yashpotdar-py/biotech-project)
