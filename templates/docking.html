@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Molecular Docking</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+    <style>
+      body {
+        background-color: #f8f9fa;
+        font-family: "Arial", sans-serif;
+      }
+      .container {
+        margin-top: 50px;
+        padding: 20px;
+      }
+      .form-container {
+        max-width: 800px;
+        margin: 0 auto;
+      }
+      .card {
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease;
+      }
+      .card:hover {
+        transform: translateY(-5px);
+      }
+      .btn {
+        padding: 12px 25px;
+        border-radius: 25px;
+        font-weight: 600;
+        transition: all 0.3s ease;
+      }
+      .btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      }
+      .page-title {
+        color: #2c3e50;
+        font-weight: 700;
+        margin-bottom: 30px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+      .feature-box {
+        text-align: center;
+        padding: 20px;
+        margin-bottom: 30px;
+      }
+      .feature-icon {
+        font-size: 40px;
+        margin-bottom: 15px;
+        color: #007bff;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <h1 class="text-center page-title">Molecular Docking</h1>
+
+      <div class="form-container">
+        <div class="card">
+          <div class="card-body">
+            <form action="/docking-results" method="post">
+              <div class="form-group">
+                <label for="protein_name">Protein Name (PDB ID):</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="protein_name"
+                  name="protein_name"
+                  placeholder="e.g., 5BXQ"
+                  required
+                />
+                <small class="text-muted"
+                  >Enter the PDB ID of the protein</small
+                >
+              </div>
+
+              <div class="form-group">
+                <label for="ligand_name">Ligand Name:</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="ligand_name"
+                  name="ligand_name"
+                  placeholder="e.g., SO4"
+                  required
+                />
+                <small class="text-muted"
+                  >Enter the chemical code of the ligand</small
+                >
+              </div>
+
+              <button type="submit" class="btn btn-primary btn-block">
+                Get Validation Data
+              </button>
+            </form>
+          </div>
+        </div>
+
+        <div class="mt-4 text-center">
+          <a href="/" class="btn btn-secondary">
+            <i class="fas fa-arrow-left mr-2"></i>Back to Home
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </body>
+</html>
