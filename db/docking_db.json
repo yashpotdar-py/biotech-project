@@ -1,0 +1,904 @@
+{
+    "docking_results": [
+        {
+            "protein_id": "5G26",
+            "ligand_id": "LIG1",
+            "ligand_name": "Aspirin",
+            "docking_score": -9.06,
+            "rmsd": 0.9,
+            "binding_site": "Site H",
+            "timestamp": "2025-02-27 14:00"
+        },
+        {
+            "protein_id": "5G26",
+            "ligand_id": "LIG2",
+            "ligand_name": "Ibuprofen",
+            "docking_score": -5.03,
+            "rmsd": 1.97,
+            "binding_site": "Site D",
+            "timestamp": "2025-02-27 14:01"
+        },
+        {
+            "protein_id": "5G26",
+            "ligand_id": "LIG3",
+            "ligand_name": "Paracetamol",
+            "docking_score": -7.74,
+            "rmsd": 1.85,
+            "binding_site": "Site D",
+            "timestamp": "2025-02-27 14:02"
+        },
+        {
+            "protein_id": "5G26",
+            "ligand_id": "LIG4",
+            "ligand_name": "Caffeine",
+            "docking_score": -6.95,
+            "rmsd": 1.4,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 14:03"
+        },
+        {
+            "protein_id": "5G26",
+            "ligand_id": "LIG5",
+            "ligand_name": "Nicotinamide",
+            "docking_score": -6.72,
+            "rmsd": 1.21,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:04"
+        },
+        {
+            "protein_id": "5G26",
+            "ligand_id": "LIG6",
+            "ligand_name": "Dopamine",
+            "docking_score": -9.65,
+            "rmsd": 0.56,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 14:05"
+        },
+        {
+            "protein_id": "5G26",
+            "ligand_id": "LIG7",
+            "ligand_name": "Serotonin",
+            "docking_score": -9.27,
+            "rmsd": 1.07,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 14:06"
+        },
+        {
+            "protein_id": "5G26",
+            "ligand_id": "LIG8",
+            "ligand_name": "Histamine",
+            "docking_score": -5.3,
+            "rmsd": 0.97,
+            "binding_site": "Site D",
+            "timestamp": "2025-02-27 14:07"
+        },
+        {
+            "protein_id": "5G26",
+            "ligand_id": "LIG9",
+            "ligand_name": "L-DOPA",
+            "docking_score": -8.44,
+            "rmsd": 1.96,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 14:08"
+        },
+        {
+            "protein_id": "5G26",
+            "ligand_id": "LIG10",
+            "ligand_name": "Atorvastatin",
+            "docking_score": -8.16,
+            "rmsd": 1.43,
+            "binding_site": "Site D",
+            "timestamp": "2025-02-27 14:09"
+        },
+        {
+            "protein_id": "3G21",
+            "ligand_id": "LIG1",
+            "ligand_name": "Aspirin",
+            "docking_score": -5.58,
+            "rmsd": 0.98,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:00"
+        },
+        {
+            "protein_id": "3G21",
+            "ligand_id": "LIG2",
+            "ligand_name": "Ibuprofen",
+            "docking_score": -8.53,
+            "rmsd": 1.19,
+            "binding_site": "Site B",
+            "timestamp": "2025-02-27 14:02"
+        },
+        {
+            "protein_id": "3G21",
+            "ligand_id": "LIG3",
+            "ligand_name": "Paracetamol",
+            "docking_score": -8.87,
+            "rmsd": 1.38,
+            "binding_site": "Site B",
+            "timestamp": "2025-02-27 14:04"
+        },
+        {
+            "protein_id": "3G21",
+            "ligand_id": "LIG4",
+            "ligand_name": "Caffeine",
+            "docking_score": -6.62,
+            "rmsd": 1.05,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 14:06"
+        },
+        {
+            "protein_id": "3G21",
+            "ligand_id": "LIG5",
+            "ligand_name": "Nicotinamide",
+            "docking_score": -9.98,
+            "rmsd": 2.11,
+            "binding_site": "Site D",
+            "timestamp": "2025-02-27 14:08"
+        },
+        {
+            "protein_id": "3G21",
+            "ligand_id": "LIG6",
+            "ligand_name": "Dopamine",
+            "docking_score": -8.8,
+            "rmsd": 1.03,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:10"
+        },
+        {
+            "protein_id": "3G21",
+            "ligand_id": "LIG7",
+            "ligand_name": "Serotonin",
+            "docking_score": -9.69,
+            "rmsd": 1.32,
+            "binding_site": "Site A",
+            "timestamp": "2025-02-27 14:12"
+        },
+        {
+            "protein_id": "3G21",
+            "ligand_id": "LIG8",
+            "ligand_name": "Histamine",
+            "docking_score": -6.0,
+            "rmsd": 1.95,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:14"
+        },
+        {
+            "protein_id": "3G21",
+            "ligand_id": "LIG9",
+            "ligand_name": "L-DOPA",
+            "docking_score": -9.86,
+            "rmsd": 0.74,
+            "binding_site": "Site C",
+            "timestamp": "2025-02-27 14:16"
+        },
+        {
+            "protein_id": "3G21",
+            "ligand_id": "LIG10",
+            "ligand_name": "Atorvastatin",
+            "docking_score": -9.69,
+            "rmsd": 1.94,
+            "binding_site": "Site D",
+            "timestamp": "2025-02-27 14:18"
+        },
+        {
+            "protein_id": "3B10",
+            "ligand_id": "LIG1",
+            "ligand_name": "Aspirin",
+            "docking_score": -9.4,
+            "rmsd": 0.61,
+            "binding_site": "Site B",
+            "timestamp": "2025-02-27 14:00"
+        },
+        {
+            "protein_id": "3B10",
+            "ligand_id": "LIG2",
+            "ligand_name": "Ibuprofen",
+            "docking_score": -7.34,
+            "rmsd": 2.47,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:03"
+        },
+        {
+            "protein_id": "3B10",
+            "ligand_id": "LIG3",
+            "ligand_name": "Paracetamol",
+            "docking_score": -6.33,
+            "rmsd": 0.9,
+            "binding_site": "Site A",
+            "timestamp": "2025-02-27 14:06"
+        },
+        {
+            "protein_id": "3B10",
+            "ligand_id": "LIG4",
+            "ligand_name": "Caffeine",
+            "docking_score": -7.54,
+            "rmsd": 2.18,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:09"
+        },
+        {
+            "protein_id": "3B10",
+            "ligand_id": "LIG5",
+            "ligand_name": "Nicotinamide",
+            "docking_score": -6.88,
+            "rmsd": 1.15,
+            "binding_site": "Site C",
+            "timestamp": "2025-02-27 14:12"
+        },
+        {
+            "protein_id": "3B10",
+            "ligand_id": "LIG6",
+            "ligand_name": "Dopamine",
+            "docking_score": -6.51,
+            "rmsd": 1.9,
+            "binding_site": "Site B",
+            "timestamp": "2025-02-27 14:15"
+        },
+        {
+            "protein_id": "3B10",
+            "ligand_id": "LIG7",
+            "ligand_name": "Serotonin",
+            "docking_score": -8.63,
+            "rmsd": 1.05,
+            "binding_site": "Site H",
+            "timestamp": "2025-02-27 14:18"
+        },
+        {
+            "protein_id": "3B10",
+            "ligand_id": "LIG8",
+            "ligand_name": "Histamine",
+            "docking_score": -9.75,
+            "rmsd": 0.51,
+            "binding_site": "Site H",
+            "timestamp": "2025-02-27 14:21"
+        },
+        {
+            "protein_id": "3B10",
+            "ligand_id": "LIG9",
+            "ligand_name": "L-DOPA",
+            "docking_score": -7.37,
+            "rmsd": 2.14,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 14:24"
+        },
+        {
+            "protein_id": "3B10",
+            "ligand_id": "LIG10",
+            "ligand_name": "Atorvastatin",
+            "docking_score": -7.01,
+            "rmsd": 0.55,
+            "binding_site": "Site D",
+            "timestamp": "2025-02-27 14:27"
+        },
+        {
+            "protein_id": "1D56",
+            "ligand_id": "LIG1",
+            "ligand_name": "Aspirin",
+            "docking_score": -6.19,
+            "rmsd": 0.59,
+            "binding_site": "Site H",
+            "timestamp": "2025-02-27 14:00"
+        },
+        {
+            "protein_id": "1D56",
+            "ligand_id": "LIG2",
+            "ligand_name": "Ibuprofen",
+            "docking_score": -9.11,
+            "rmsd": 1.17,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 14:04"
+        },
+        {
+            "protein_id": "1D56",
+            "ligand_id": "LIG3",
+            "ligand_name": "Paracetamol",
+            "docking_score": -6.36,
+            "rmsd": 2.17,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 14:08"
+        },
+        {
+            "protein_id": "1D56",
+            "ligand_id": "LIG4",
+            "ligand_name": "Caffeine",
+            "docking_score": -7.63,
+            "rmsd": 1.3,
+            "binding_site": "Site A",
+            "timestamp": "2025-02-27 14:12"
+        },
+        {
+            "protein_id": "1D56",
+            "ligand_id": "LIG5",
+            "ligand_name": "Nicotinamide",
+            "docking_score": -7.96,
+            "rmsd": 1.2,
+            "binding_site": "Site H",
+            "timestamp": "2025-02-27 14:16"
+        },
+        {
+            "protein_id": "1D56",
+            "ligand_id": "LIG6",
+            "ligand_name": "Dopamine",
+            "docking_score": -8.78,
+            "rmsd": 1.59,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 14:20"
+        },
+        {
+            "protein_id": "1D56",
+            "ligand_id": "LIG7",
+            "ligand_name": "Serotonin",
+            "docking_score": -7.05,
+            "rmsd": 2.46,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 14:24"
+        },
+        {
+            "protein_id": "1D56",
+            "ligand_id": "LIG8",
+            "ligand_name": "Histamine",
+            "docking_score": -9.2,
+            "rmsd": 2.04,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 14:28"
+        },
+        {
+            "protein_id": "1D56",
+            "ligand_id": "LIG9",
+            "ligand_name": "L-DOPA",
+            "docking_score": -5.51,
+            "rmsd": 1.01,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:32"
+        },
+        {
+            "protein_id": "1D56",
+            "ligand_id": "LIG10",
+            "ligand_name": "Atorvastatin",
+            "docking_score": -8.38,
+            "rmsd": 1.17,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 14:36"
+        },
+        {
+            "protein_id": "6B28",
+            "ligand_id": "LIG1",
+            "ligand_name": "Aspirin",
+            "docking_score": -9.14,
+            "rmsd": 1.09,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 14:00"
+        },
+        {
+            "protein_id": "6B28",
+            "ligand_id": "LIG2",
+            "ligand_name": "Ibuprofen",
+            "docking_score": -9.21,
+            "rmsd": 1.86,
+            "binding_site": "Site H",
+            "timestamp": "2025-02-27 14:05"
+        },
+        {
+            "protein_id": "6B28",
+            "ligand_id": "LIG3",
+            "ligand_name": "Paracetamol",
+            "docking_score": -8.48,
+            "rmsd": 0.65,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 14:10"
+        },
+        {
+            "protein_id": "6B28",
+            "ligand_id": "LIG4",
+            "ligand_name": "Caffeine",
+            "docking_score": -6.94,
+            "rmsd": 2.28,
+            "binding_site": "Site A",
+            "timestamp": "2025-02-27 14:15"
+        },
+        {
+            "protein_id": "6B28",
+            "ligand_id": "LIG5",
+            "ligand_name": "Nicotinamide",
+            "docking_score": -6.89,
+            "rmsd": 1.93,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:20"
+        },
+        {
+            "protein_id": "6B28",
+            "ligand_id": "LIG6",
+            "ligand_name": "Dopamine",
+            "docking_score": -9.61,
+            "rmsd": 1.79,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 14:25"
+        },
+        {
+            "protein_id": "6B28",
+            "ligand_id": "LIG7",
+            "ligand_name": "Serotonin",
+            "docking_score": -9.03,
+            "rmsd": 1.53,
+            "binding_site": "Site B",
+            "timestamp": "2025-02-27 14:30"
+        },
+        {
+            "protein_id": "6B28",
+            "ligand_id": "LIG8",
+            "ligand_name": "Histamine",
+            "docking_score": -7.34,
+            "rmsd": 1.95,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 14:35"
+        },
+        {
+            "protein_id": "6B28",
+            "ligand_id": "LIG9",
+            "ligand_name": "L-DOPA",
+            "docking_score": -5.45,
+            "rmsd": 2.23,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:40"
+        },
+        {
+            "protein_id": "6B28",
+            "ligand_id": "LIG10",
+            "ligand_name": "Atorvastatin",
+            "docking_score": -9.64,
+            "rmsd": 0.66,
+            "binding_site": "Site A",
+            "timestamp": "2025-02-27 14:45"
+        },
+        {
+            "protein_id": "6E15",
+            "ligand_id": "LIG1",
+            "ligand_name": "Aspirin",
+            "docking_score": -6.43,
+            "rmsd": 2.4,
+            "binding_site": "Site A",
+            "timestamp": "2025-02-27 14:00"
+        },
+        {
+            "protein_id": "6E15",
+            "ligand_id": "LIG2",
+            "ligand_name": "Ibuprofen",
+            "docking_score": -7.09,
+            "rmsd": 0.85,
+            "binding_site": "Site H",
+            "timestamp": "2025-02-27 14:06"
+        },
+        {
+            "protein_id": "6E15",
+            "ligand_id": "LIG3",
+            "ligand_name": "Paracetamol",
+            "docking_score": -6.16,
+            "rmsd": 0.68,
+            "binding_site": "Site A",
+            "timestamp": "2025-02-27 14:12"
+        },
+        {
+            "protein_id": "6E15",
+            "ligand_id": "LIG4",
+            "ligand_name": "Caffeine",
+            "docking_score": -7.46,
+            "rmsd": 1.19,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 14:18"
+        },
+        {
+            "protein_id": "6E15",
+            "ligand_id": "LIG5",
+            "ligand_name": "Nicotinamide",
+            "docking_score": -7.09,
+            "rmsd": 2.22,
+            "binding_site": "Site B",
+            "timestamp": "2025-02-27 14:24"
+        },
+        {
+            "protein_id": "6E15",
+            "ligand_id": "LIG6",
+            "ligand_name": "Dopamine",
+            "docking_score": -9.5,
+            "rmsd": 0.62,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:30"
+        },
+        {
+            "protein_id": "6E15",
+            "ligand_id": "LIG7",
+            "ligand_name": "Serotonin",
+            "docking_score": -6.27,
+            "rmsd": 2.19,
+            "binding_site": "Site D",
+            "timestamp": "2025-02-27 14:36"
+        },
+        {
+            "protein_id": "6E15",
+            "ligand_id": "LIG8",
+            "ligand_name": "Histamine",
+            "docking_score": -7.29,
+            "rmsd": 1.5,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 14:42"
+        },
+        {
+            "protein_id": "6E15",
+            "ligand_id": "LIG9",
+            "ligand_name": "L-DOPA",
+            "docking_score": -7.08,
+            "rmsd": 0.75,
+            "binding_site": "Site A",
+            "timestamp": "2025-02-27 14:48"
+        },
+        {
+            "protein_id": "6E15",
+            "ligand_id": "LIG10",
+            "ligand_name": "Atorvastatin",
+            "docking_score": -5.67,
+            "rmsd": 1.23,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 14:54"
+        },
+        {
+            "protein_id": "3C20",
+            "ligand_id": "LIG1",
+            "ligand_name": "Aspirin",
+            "docking_score": -8.54,
+            "rmsd": 2.17,
+            "binding_site": "Site C",
+            "timestamp": "2025-02-27 14:00"
+        },
+        {
+            "protein_id": "3C20",
+            "ligand_id": "LIG2",
+            "ligand_name": "Ibuprofen",
+            "docking_score": -7.27,
+            "rmsd": 2.47,
+            "binding_site": "Site H",
+            "timestamp": "2025-02-27 14:07"
+        },
+        {
+            "protein_id": "3C20",
+            "ligand_id": "LIG3",
+            "ligand_name": "Paracetamol",
+            "docking_score": -6.15,
+            "rmsd": 1.14,
+            "binding_site": "Site H",
+            "timestamp": "2025-02-27 14:14"
+        },
+        {
+            "protein_id": "3C20",
+            "ligand_id": "LIG4",
+            "ligand_name": "Caffeine",
+            "docking_score": -5.74,
+            "rmsd": 2.19,
+            "binding_site": "Site C",
+            "timestamp": "2025-02-27 14:21"
+        },
+        {
+            "protein_id": "3C20",
+            "ligand_id": "LIG5",
+            "ligand_name": "Nicotinamide",
+            "docking_score": -6.55,
+            "rmsd": 1.73,
+            "binding_site": "Site D",
+            "timestamp": "2025-02-27 14:28"
+        },
+        {
+            "protein_id": "3C20",
+            "ligand_id": "LIG6",
+            "ligand_name": "Dopamine",
+            "docking_score": -5.8,
+            "rmsd": 1.93,
+            "binding_site": "Site C",
+            "timestamp": "2025-02-27 14:35"
+        },
+        {
+            "protein_id": "3C20",
+            "ligand_id": "LIG7",
+            "ligand_name": "Serotonin",
+            "docking_score": -8.66,
+            "rmsd": 1.58,
+            "binding_site": "Site D",
+            "timestamp": "2025-02-27 14:42"
+        },
+        {
+            "protein_id": "3C20",
+            "ligand_id": "LIG8",
+            "ligand_name": "Histamine",
+            "docking_score": -9.55,
+            "rmsd": 1.13,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 14:49"
+        },
+        {
+            "protein_id": "3C20",
+            "ligand_id": "LIG9",
+            "ligand_name": "L-DOPA",
+            "docking_score": -7.16,
+            "rmsd": 2.12,
+            "binding_site": "Site A",
+            "timestamp": "2025-02-27 14:56"
+        },
+        {
+            "protein_id": "3C20",
+            "ligand_id": "LIG10",
+            "ligand_name": "Atorvastatin",
+            "docking_score": -5.41,
+            "rmsd": 1.96,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 15:03"
+        },
+        {
+            "protein_id": "7A58",
+            "ligand_id": "LIG1",
+            "ligand_name": "Aspirin",
+            "docking_score": -9.8,
+            "rmsd": 1.68,
+            "binding_site": "Site B",
+            "timestamp": "2025-02-27 14:00"
+        },
+        {
+            "protein_id": "7A58",
+            "ligand_id": "LIG2",
+            "ligand_name": "Ibuprofen",
+            "docking_score": -8.41,
+            "rmsd": 1.67,
+            "binding_site": "Site C",
+            "timestamp": "2025-02-27 14:08"
+        },
+        {
+            "protein_id": "7A58",
+            "ligand_id": "LIG3",
+            "ligand_name": "Paracetamol",
+            "docking_score": -5.59,
+            "rmsd": 0.68,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:16"
+        },
+        {
+            "protein_id": "7A58",
+            "ligand_id": "LIG4",
+            "ligand_name": "Caffeine",
+            "docking_score": -5.05,
+            "rmsd": 1.92,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 14:24"
+        },
+        {
+            "protein_id": "7A58",
+            "ligand_id": "LIG5",
+            "ligand_name": "Nicotinamide",
+            "docking_score": -7.17,
+            "rmsd": 1.01,
+            "binding_site": "Site A",
+            "timestamp": "2025-02-27 14:32"
+        },
+        {
+            "protein_id": "7A58",
+            "ligand_id": "LIG6",
+            "ligand_name": "Dopamine",
+            "docking_score": -7.88,
+            "rmsd": 1.98,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 14:40"
+        },
+        {
+            "protein_id": "7A58",
+            "ligand_id": "LIG7",
+            "ligand_name": "Serotonin",
+            "docking_score": -6.37,
+            "rmsd": 0.61,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 14:48"
+        },
+        {
+            "protein_id": "7A58",
+            "ligand_id": "LIG8",
+            "ligand_name": "Histamine",
+            "docking_score": -7.61,
+            "rmsd": 1.6,
+            "binding_site": "Site E",
+            "timestamp": "2025-02-27 14:56"
+        },
+        {
+            "protein_id": "7A58",
+            "ligand_id": "LIG9",
+            "ligand_name": "L-DOPA",
+            "docking_score": -7.16,
+            "rmsd": 1.26,
+            "binding_site": "Site D",
+            "timestamp": "2025-02-27 15:04"
+        },
+        {
+            "protein_id": "7A58",
+            "ligand_id": "LIG10",
+            "ligand_name": "Atorvastatin",
+            "docking_score": -9.74,
+            "rmsd": 2.04,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 15:12"
+        },
+        {
+            "protein_id": "4B68",
+            "ligand_id": "LIG1",
+            "ligand_name": "Aspirin",
+            "docking_score": -7.49,
+            "rmsd": 2.36,
+            "binding_site": "Site B",
+            "timestamp": "2025-02-27 14:00"
+        },
+        {
+            "protein_id": "4B68",
+            "ligand_id": "LIG2",
+            "ligand_name": "Ibuprofen",
+            "docking_score": -6.58,
+            "rmsd": 1.3,
+            "binding_site": "Site C",
+            "timestamp": "2025-02-27 14:09"
+        },
+        {
+            "protein_id": "4B68",
+            "ligand_id": "LIG3",
+            "ligand_name": "Paracetamol",
+            "docking_score": -9.92,
+            "rmsd": 0.82,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:18"
+        },
+        {
+            "protein_id": "4B68",
+            "ligand_id": "LIG4",
+            "ligand_name": "Caffeine",
+            "docking_score": -7.38,
+            "rmsd": 2.21,
+            "binding_site": "Site B",
+            "timestamp": "2025-02-27 14:27"
+        },
+        {
+            "protein_id": "4B68",
+            "ligand_id": "LIG5",
+            "ligand_name": "Nicotinamide",
+            "docking_score": -9.57,
+            "rmsd": 1.83,
+            "binding_site": "Site D",
+            "timestamp": "2025-02-27 14:36"
+        },
+        {
+            "protein_id": "4B68",
+            "ligand_id": "LIG6",
+            "ligand_name": "Dopamine",
+            "docking_score": -7.36,
+            "rmsd": 0.54,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:45"
+        },
+        {
+            "protein_id": "4B68",
+            "ligand_id": "LIG7",
+            "ligand_name": "Serotonin",
+            "docking_score": -8.0,
+            "rmsd": 2.36,
+            "binding_site": "Site A",
+            "timestamp": "2025-02-27 14:54"
+        },
+        {
+            "protein_id": "4B68",
+            "ligand_id": "LIG8",
+            "ligand_name": "Histamine",
+            "docking_score": -6.83,
+            "rmsd": 0.86,
+            "binding_site": "Site G",
+            "timestamp": "2025-02-27 15:03"
+        },
+        {
+            "protein_id": "4B68",
+            "ligand_id": "LIG9",
+            "ligand_name": "L-DOPA",
+            "docking_score": -5.94,
+            "rmsd": 2.44,
+            "binding_site": "Site C",
+            "timestamp": "2025-02-27 15:12"
+        },
+        {
+            "protein_id": "4B68",
+            "ligand_id": "LIG10",
+            "ligand_name": "Atorvastatin",
+            "docking_score": -9.33,
+            "rmsd": 0.84,
+            "binding_site": "Site A",
+            "timestamp": "2025-02-27 15:21"
+        },
+        {
+            "protein_id": "2G36",
+            "ligand_id": "LIG1",
+            "ligand_name": "Aspirin",
+            "docking_score": -5.54,
+            "rmsd": 1.84,
+            "binding_site": "Site B",
+            "timestamp": "2025-02-27 14:00"
+        },
+        {
+            "protein_id": "2G36",
+            "ligand_id": "LIG2",
+            "ligand_name": "Ibuprofen",
+            "docking_score": -5.5,
+            "rmsd": 1.56,
+            "binding_site": "Site C",
+            "timestamp": "2025-02-27 14:10"
+        },
+        {
+            "protein_id": "2G36",
+            "ligand_id": "LIG3",
+            "ligand_name": "Paracetamol",
+            "docking_score": -6.68,
+            "rmsd": 2.42,
+            "binding_site": "Site C",
+            "timestamp": "2025-02-27 14:20"
+        },
+        {
+            "protein_id": "2G36",
+            "ligand_id": "LIG4",
+            "ligand_name": "Caffeine",
+            "docking_score": -5.92,
+            "rmsd": 1.52,
+            "binding_site": "Site B",
+            "timestamp": "2025-02-27 14:30"
+        },
+        {
+            "protein_id": "2G36",
+            "ligand_id": "LIG5",
+            "ligand_name": "Nicotinamide",
+            "docking_score": -9.88,
+            "rmsd": 1.44,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 14:40"
+        },
+        {
+            "protein_id": "2G36",
+            "ligand_id": "LIG6",
+            "ligand_name": "Dopamine",
+            "docking_score": -6.13,
+            "rmsd": 2.33,
+            "binding_site": "Site H",
+            "timestamp": "2025-02-27 14:50"
+        },
+        {
+            "protein_id": "2G36",
+            "ligand_id": "LIG7",
+            "ligand_name": "Serotonin",
+            "docking_score": -8.76,
+            "rmsd": 1.03,
+            "binding_site": "Site H",
+            "timestamp": "2025-02-27 15:00"
+        },
+        {
+            "protein_id": "2G36",
+            "ligand_id": "LIG8",
+            "ligand_name": "Histamine",
+            "docking_score": -5.48,
+            "rmsd": 0.55,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 15:10"
+        },
+        {
+            "protein_id": "2G36",
+            "ligand_id": "LIG9",
+            "ligand_name": "L-DOPA",
+            "docking_score": -9.23,
+            "rmsd": 1.45,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 15:20"
+        },
+        {
+            "protein_id": "2G36",
+            "ligand_id": "LIG10",
+            "ligand_name": "Atorvastatin",
+            "docking_score": -8.04,
+            "rmsd": 0.98,
+            "binding_site": "Site F",
+            "timestamp": "2025-02-27 15:30"
+        }
+    ]
+}
