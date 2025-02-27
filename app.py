@@ -1,6 +1,5 @@
-from flask import Flask, render_template, request, flash, redirect, url_for, jsonify
-import pandas as pd
 import json
+from flask import Flask, render_template, request, flash, redirect, url_for, jsonify
 
 app = Flask(__name__)
 app.secret_key = "biotech"
@@ -80,15 +79,18 @@ def results():
                            protein_name=protein_name,
                            ligand_name=ligand_name)
 
+
 @app.route('/modelling', methods=['GET', 'POST'])
 def modeling():
     # TODO: Implement modeling functionality
     return render_template('modeling.html')
 
+
 @app.route('/modelling-results', methods=['POST'])
 def modeling_results():
     # TODO: Implement modeling results functionality
     return render_template('modeling-results.html')
+
 
 if __name__ == '__main__':
     app.run(debug=True)
