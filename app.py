@@ -6,7 +6,7 @@ app.secret_key = "biotech"
 
 
 def load_docking_data():
-    with open('db/docking_db', 'r') as f:
+    with open('db/docking_db.json', 'r') as f:
         return json.load(f)
 
 
